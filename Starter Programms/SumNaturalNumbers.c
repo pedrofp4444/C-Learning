@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// C Program to check alphabet
+// C Program to sum natural numbers
 
 int main() {
 
